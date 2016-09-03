@@ -1,6 +1,6 @@
 Vision-Tracking
 ==========
-[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)[MIT]
+![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)[MIT]
 
 This is a simple computer vision software.
 
