@@ -1,6 +1,6 @@
 Vision-Tracking
 ==========
-![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
+![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
 This is a simple computer vision software.
 
@@ -12,7 +12,7 @@ Gallery
 License
 -------
 
-This code is licensed under the MIT License (MIT), of which a textual copy is available at [LICENSE.txt](LICENSE.txt).
+This code is licensed under the GNU GENERAL PUBLIC LICENSE, of which a textual copy is available at [LICENSE.txt](LICENSE.txt).
 
 
 
